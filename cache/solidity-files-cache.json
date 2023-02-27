@@ -1,0 +1,153 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/josephdeangeloi/Documents/Alchemy/Ethereum Dev Bootcamp/ProxyStorage/contracts/Proxy.sol": {
+      "lastModificationDate": 1677447020227,
+      "contentHash": "ee029258042160a99cf1e809658ad9d2",
+      "sourceName": "contracts/Proxy.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Logic1",
+        "Logic2",
+        "Proxy"
+      ]
+    },
+    "/Users/josephdeangeloi/Documents/Github/ProxyStorage/contracts/Proxy.sol": {
+      "lastModificationDate": 1677447972122,
+      "contentHash": "ee029258042160a99cf1e809658ad9d2",
+      "sourceName": "contracts/Proxy.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Logic1",
+        "Logic2",
+        "Proxy"
+      ]
+    },
+    "/Users/josephdeangeloi/Documents/Github/ProxyStorage_EIP1967/contracts/Proxy.sol": {
+      "lastModificationDate": 1677495133416,
+      "contentHash": "c27b4c8cde85b919bf760735c481849b",
+      "sourceName": "contracts/Proxy.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./StorageSlot.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Logic1",
+        "Logic2",
+        "Proxy"
+      ]
+    },
+    "/Users/josephdeangeloi/Documents/Github/ProxyStorage_EIP1967/contracts/StorageSlot.sol": {
+      "lastModificationDate": 1677494772775,
+      "contentHash": "eff04f3c5d8833616b9279cc893a8cbb",
+      "sourceName": "contracts/StorageSlot.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "StorageSlot"
+      ]
+    }
+  }
+}
